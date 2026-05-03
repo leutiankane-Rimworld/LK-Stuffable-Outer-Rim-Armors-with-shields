@@ -31,4 +31,7 @@
         <li>brrainz.harmony</li>
         <li>Neronix17.OuterRim.Core</li>
     </loadAfter>
+	<incompatibleWith>
+  <li>LeutianKane.StuffGE</li>
+</incompatibleWith>
 </ModMetaData>
